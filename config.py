@@ -82,7 +82,7 @@ Use These Keywords To Setup Custom File Name
     
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
     
-<b>🛍 UPI ID:</b> <code>9326564852@axl</code> """
+<b>🛍 UPI ID:</b> <code>atharvarajmohite1610@okhdfcbank</code> """
     
     HELP_TXT = """<b>Hey</b> {}
     
