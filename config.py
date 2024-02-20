@@ -44,7 +44,7 @@ Use These Keywords To Setup Custom File Name
 ✓ episode :- To Replace Episode Number
 ✓ quality :- To Replace Video Resolution
 
-<b>➻ Example :</b> <code> /autorename Naruto Shippuden S02 - EPepisode - quality  [Dual Audio] - @Madflix_Bots </code>
+<b>➻ Example :</b> <code> /autorename Naruto Shippuden S02 - EPepisode - quality  [Dual Audio] - @Otaku_Adda.mkv </code>
 
 <b>➻ Your Current Auto Rename Format :</b> <code>{format_template}</code> """
     
@@ -92,8 +92,4 @@ Here Is The Help For My Commands."""
 
 
 
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Developer @JishuDeveloper
 
